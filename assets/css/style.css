@@ -13,4 +13,44 @@
 }
 .jumbotron {
     margin-top:44px;
+    background-image: url(../images/congruent_pentagon.png);
+}
+.card-body {
+    background-image: url(../images/skulls.png);
+}
+
+.work {
+    width:274px;
+    overflow:auto;
+    position:relative;
+    float:left;
+    margin:20px 0 25px;
+}
+
+.work:nth-child(even) {
+    margin-right:40px;
+}
+
+.work img {
+    width: 100%;
+    border:0 none;
+    opacity:.8;
+}
+
+.work h3 {
+    border-bottom: o;
+    background:#ff5252;
+    color:#fff;
+    text-align:center;
+    position:absolute;
+    bottom:20px;
+    padding:15px;
+    width: 100%;
+    line-height: 30px;
+    margin-bottom:0;
+    font-weight:300;
+}
+a {
+    color:#fff;
+    text-decoration: none;
 }
