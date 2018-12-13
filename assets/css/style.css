@@ -18,6 +18,9 @@
 .card-body {
     background-image: url(../images/skulls.png);
 }
+.card {
+    margin-bottom:25px;
+}
 
 .work {
     width:274px;
